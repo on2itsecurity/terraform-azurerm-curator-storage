@@ -95,7 +95,7 @@ variable "public_network_access" {
 variable "allowed_ip_ranges" {
   description = "List of IP ranges allowed to access storage (only used when public_network_access = Deny)"
   type        = list(string)
-  default     = ["185.46.232.0/22"]
+  default     = []
 }
 
 # Lifecycle
