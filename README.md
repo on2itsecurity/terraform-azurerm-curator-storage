@@ -76,8 +76,8 @@ By default, the module enables cost-optimization lifecycle rules:
 
 ## Examples
 
-- [Basic](./examples/basic) -- Minimal deployment with required variables only
-- [Complete](./examples/complete) -- Full deployment with lifecycle and network restrictions
+- [Basic](https://github.com/on2itsecurity/terraform-azurerm-curator-storage/tree/main/examples/basic) -- Minimal deployment with required variables only
+- [Complete](https://github.com/on2itsecurity/terraform-azurerm-curator-storage/tree/main/examples/complete) -- Full deployment with lifecycle and network restrictions
 
 ## License
 
